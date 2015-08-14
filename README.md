@@ -1,12 +1,5 @@
-# parking
+# Goose Watch 2.0
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+This project makes use of Angular.JS and the Google Maps API to interpret data from the [UW Open Data API](https://github.com/uWaterloo/api-documentation) to display custom markers onto the map.  
 
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+[Check out the demo](http://k9101.github.io/goose-watch-2/)
